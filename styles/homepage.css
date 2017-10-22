@@ -43,3 +43,7 @@ nav{
 .card{
 	margin-top: 20px
 }
+.card-title:hover {
+	font-size: 40px;
+
+}
