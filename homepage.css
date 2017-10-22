@@ -1,0 +1,45 @@
+nav{
+   background-color: beige;
+}
+.navbar-brand.title{
+	color: #737373;
+}
+.nav-item .nav-link.nav-menu-item{
+	color: #737373;
+}
+.body1{
+	background: url("../imgs/car.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+.body2{
+	background: url("../imgs/car2.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+.text{
+	margin-top: 90px;
+	color: #f0f0f5;
+    font-family: Impact;
+    font-size: 65px;
+}
+.para{
+	color: white;
+	margin-top: 95px
+}
+.image{
+	max-height: 100%;
+    max-width: 100%;
+    float: left;
+    margin-top: 95px;
+}
+.border{
+  border: black 5px ;
+}
+
+.dp{
+  height: 350px;
+  width: 350px;	
+}
+
+.card{
+	margin-top: 20px
+}
